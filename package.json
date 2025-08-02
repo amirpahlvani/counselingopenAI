@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "react-native-typescript-transformer": "^1.2.13"
+  }
+}
