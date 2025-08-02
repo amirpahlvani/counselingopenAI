@@ -4,7 +4,7 @@ This repository contains the scaffolding for **ExpertConnect**, a scalable multi
 
 ## Structure
 
-- `frontend/` – React Native mobile application
+- `ExpertConnect/` – React Native mobile application
 - `backend/` – Node.js + Express API server
 
 The **frontend** folder includes a minimal React Native setup (`App.tsx`, `app.json`, `package.json`, `babel.config.js`, `tsconfig.json`, etc.) and a `src` directory where you can add assets, components, screens, navigation, localization files, services, store, utilities, theme definitions, and constants.
